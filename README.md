@@ -24,30 +24,28 @@ Enthusiastic and innovative Full Stack Developer with over a year of intensive e
 
 ### 🚀 Projects
 
-#### [myDNA](https://project-link-here.com)
+#### [myDNA](project-link)
 A web application for DNA analysis using Flask, Django, and AI technologies.
 
-#### [BustPDF](https://project-link-here.com)
+#### [BustPDF](project-link)
 A tool for extracting and processing information from PDFs using Flask and Google Cloud OCR.
 
-#### [GenAI Chatbots for Nonprofits](https://project-link-here.com)
+#### [GenAI Chatbots for Nonprofits](project-link)
 AI-powered chatbots to enhance website interactivity for nonprofit organizations.
 
-#### [Chatflight](https://project-link-here.com)
+#### [Chatflight](project-link)
 A prototype application providing flight information through natural language queries.
 
-#### [AccompanyMe](https://project-link-here.com)
+#### [AccompanyMe](project-link)
 A cross-platform mobile app connecting individuals seeking companionship.
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/christian-mandefro)
 
 ### 🌟 Fun Fact
 
-[Insert a fun and interesting fact about yourself here]
+I lived in Ethiopia, East Africa for all my childhood and teenage years and I can speak Amharic fluently!
 
 ---
 
