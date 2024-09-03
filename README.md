@@ -49,6 +49,7 @@ Aug 2023 - Sep 2023
 AI-powered chatbots to enhance website interactivity for nonprofit organizations.
 
 #### [AccompanyMe](project-link)
+Mar 2023 - Jun 2023
 A cross-platform mobile app connecting individuals seeking companionship.
 
 ### 📫 Let's Connect
