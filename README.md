@@ -6,9 +6,9 @@
 
 ### 👨‍💻 About Me
 
-Enthusiastic and innovative Full Stack Developer with over a year of intensive experience in web and software development. I specialize in Python, Django, JavaScript, and integrating AI solutions into web applications. My passion lies in building user-centric applications and leveraging emerging technologies to solve complex problems.
+Enthusiastic and innovative Full Stack Developer with over a year of intensive experience in web and software development. I specialize in Django, FastAPI, Next.js and integrating AI and Cloud solutions into web applications. My passion lies in building user-centric applications and leveraging emerging technologies to solve complex problems.
 
-- 🔭 I'm currently working on DNA analysis web applications, GenAI chatbots for nonprofits, and innovative health tracking solutions
+- 🔭 I'm currently working on AWS services visualizations, innovative health tracking solutions and DNA analysis web applications
 - 🌱 I'm continuously learning about AI, cloud technologies, and advanced web development techniques
 - 👯 I'm looking to collaborate on open-source projects and innovative web applications
 - 💬 Ask me about full-stack development, AI integration, or prompt engineering
@@ -24,18 +24,21 @@ Enthusiastic and innovative Full Stack Developer with over a year of intensive e
 
 ### 🚀 Projects
 
-#### [BellyBioMe](https://belly-biome.com)
-A comprehensive nutrition and wellness tracking app that uses branded foods data from DynamoDB and SR Legacy food nutrition data in a vector database. Features include barcode scanning, similarity-based food item searches, and personalized insights using machine learning and generative AI.
-
 #### [AWS Glossary Force Directed Graph](https://aws-glossary-graph.devlookforward.com)
+Aug 2024 - Present
 An interactive web application visualizing relationships between AWS services and glossary terms. Built with FastAPI and D3.js, it offers category-based filtering, search, zoom, and dark mode.
 
-#### [Chatflight](https://chatflight.devlookforward.com)
-A prototype application providing flight information through natural language queries.
+#### [BellyBioMe](https://belly-biome.com)
+Jul 2024 - Present
+A comprehensive nutrition and wellness tracking app that uses branded foods data from DynamoDB and SR Legacy food nutrition data in a vector database. Features include barcode scanning, similarity-based food item searches, and personalized insights using machine learning and generative AI.
 
 #### [myDNA](project-link)
 Jul 2023 - Present
 A web application for DNA analysis using Flask, Django, and AI technologies.
+
+#### [Chatflight](https://chatflight.devlookforward.com)
+Aug 2023 - Aug 2023	
+A prototype application providing flight information through natural language queries.
 
 #### [BustPDF](https://github.com/ChrisWondeFro/BustPDF)
 Oct 2023 - Oct 2023
