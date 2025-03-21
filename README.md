@@ -32,7 +32,11 @@ Since picking up web development in 2023 to create the MVP of an idea for an app
 #### [AWS Glossary Force Directed Graph](https://aws-glossary-graph.devlookforward.com)
 **Aug 2024 - Present**  
 
-**Project Overview:** The AWS Glossary Force Directed Graph is an innovative web application designed to simplify the understanding of Amazon Web Services (AWS) and its associated terminology. This interactive visualization tool allows users to explore the complex relationships between AWS services and glossary terms, making it easier for both beginners and experienced professionals to navigate the AWS ecosystem. This project was built as a side project during my time taking on the AWS re/Start program with PerScholas, where I earned my AWS Certified Cloud Practitioner Certification, and my AWS Certified AI Practitioner Certifiedon my own initiative just before graduating the program.  
+**Project Overview:** The AWS Glossary Force Directed Graph is an innovative web application designed to simplify the understanding of Amazon Web Services (AWS) and its associated terminology. This interactive visualization tool allows users to explore the complex relationships between AWS services and glossary terms, making it easier for both beginners and experienced professionals to navigate the AWS ecosystem. This project was built as a side project during my time taking on the AWS re/Start program with PerScholas, where I earned my AWS Certified Cloud Practitioner Certification, and my AWS Certified AI Practitioner Certifiedon my own initiative just before graduating the program. 
+
+<img width="1438" alt="Screenshot 2025-03-21 at 3 30 12 AM" src="https://github.com/user-attachments/assets/15a41284-f3f1-4687-9e79-004c265d21c8" />
+<img width="1410" alt="Screenshot 2025-03-21 at 3 31 28 AM" src="https://github.com/user-attachments/assets/bb9d7ba8-d626-488e-bf8c-70c1431d7285" />
+<img width="1402" alt="Screenshot 2025-03-21 at 3 29 34 AM" src="https://github.com/user-attachments/assets/636284f5-b694-4470-a075-5cf1453bd7c1" />
 
 **Key Features:**  
 - **Interactive Graph Visualization:** Utilizes a force-directed graph to display interconnected AWS services and glossary terms, enabling users to visually explore relationships, easily observe clustering behaviour and which services and terms are the most connected to by how big they are.
@@ -41,10 +45,6 @@ Since picking up web development in 2023 to create the MVP of an idea for an app
 - **Service Category Filter:** Select an AWS service category (e.g., Management & Governance) to display only relevant nodes and linkages.  
 - **Hover and Search Enhancements:** Hovering over nodes displays AWS service or term definitions. The advanced search feature dynamically moves the viewpoint to match queries, centering on the matched node, highlighting linked nodes, and greying out unrelated ones. Definitions appear in an expandable section within the graph controls panel.
 - 
-<img width="1438" alt="Screenshot 2025-03-21 at 3 30 12 AM" src="https://github.com/user-attachments/assets/15a41284-f3f1-4687-9e79-004c265d21c8" />
-<img width="1410" alt="Screenshot 2025-03-21 at 3 31 28 AM" src="https://github.com/user-attachments/assets/bb9d7ba8-d626-488e-bf8c-70c1431d7285" />
-<img width="1402" alt="Screenshot 2025-03-21 at 3 29 34 AM" src="https://github.com/user-attachments/assets/636284f5-b694-4470-a075-5cf1453bd7c1" />
-
 **Technology Stack:**  
 - **Backend:** FastAPI, a high-performance Python web framework, handles API endpoints.  
 - **Frontend Visualization:** D3.js, a powerful JavaScript library, creates dynamic and interactive data visualizations.  
@@ -67,6 +67,9 @@ Since picking up web development in 2023 to create the MVP of an idea for an app
 As the software engineer of a five-member team in the Per Scholas AWS re/Start program, I helped develop and deploy this application to AWS ElasticBeanStalk and on the web securely for our capstone project. Our team, later reduced to four members, presented last in front of additional important guests, raising the stakes. Despite this, we received top marks and were recognized as the best project in our cohort by far.
 
 <img width="1490" alt="Screenshot 2025-03-21 at 3 37 49 AM" src="https://github.com/user-attachments/assets/b879d88e-eb33-4096-bf95-82d402e8e18c" />
+<img width="1452" alt="Screenshot 2025-03-21 at 4 38 14 AM" src="https://github.com/user-attachments/assets/7989bc3c-003f-4565-b8f4-f481a70781ee" />
+<img width="1426" alt="Screenshot 2025-03-21 at 4 38 50 AM" src="https://github.com/user-attachments/assets/0adc6177-8bdd-4d10-b14e-328f955ffe25" />
+<img width="1433" alt="Screenshot 2025-03-21 at 4 39 34 AM" src="https://github.com/user-attachments/assets/7e431e07-9daf-4cc0-b15a-c0267741fe8d" />
 
 **Key Features:**  
 - **Barcode Scanning and/pr Uploading:** Quickly scan food items or upload an image of a food items barcode to log meals and track nutritional intake 
@@ -88,7 +91,7 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 
 #### [myDNA](private)
 **Jul 2023 - Present**  
-**Project Overview:** myDNA is a web application that enables users to upload and analyze raw DNA data from AncestryDNA files, providing genetic insights, disease risk assessments, and interactive visualizations.  
+**Project Overview:** myDNA is a web application that enables users to upload and analyze raw DNA data from AncestryDNA files, providing genetic insights, disease risk assessments, and interactive visualizations. Utilizes generative AI, machine learning techniques, and interactive visualizations to deliver personalized health risk assessments and transform complex genetic information into accessible and actionable insights. 
 
 <img width="1491" alt="Screenshot 2025-03-21 at 3 40 28 AM" src="https://github.com/user-attachments/assets/b7fb5e54-998f-403b-ad3b-c08295d19c3e" />
 <img width="1449" alt="Screenshot 2025-03-21 at 3 16 48 AM" src="https://github.com/user-attachments/assets/a2bf2248-9ed3-4901-b706-15141369ee79" />
@@ -119,8 +122,8 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 **Aug 2023 - Aug 2023**
 **Project Overview:** Chatflight is a prototype application that provides users with detailed flight information through natural language queries. Utilizing advanced AI and natural language processing techniques, Chatflight aims to offer a superior user experience by making flight information easily accessible and understandable.
 
+<img width="1484" alt="Screenshot 2025-03-21 at 4 50 43 AM" src="https://github.com/user-attachments/assets/13ff5f21-3a36-4715-bb33-c5ac061b19b7" />
 <img width="1477" alt="Screenshot 2025-03-21 at 4 24 33 AM" src="https://github.com/user-attachments/assets/9de10a63-9d60-4c7d-8ef6-ac5a327852ce" />
-
 
 **Key Features:** 
 - **Natural Language Queries:** Users can ask questions about flights in plain language and receive detailed responses.
@@ -145,7 +148,6 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 
 <img width="1463" alt="Screenshot 2025-03-21 at 4 27 07 AM" src="https://github.com/user-attachments/assets/118cb31f-3b0f-474c-9bd5-f8091c84d00d" />
 <img width="1431" alt="Screenshot 2025-03-21 at 4 27 13 AM" src="https://github.com/user-attachments/assets/93cf734b-a36e-49c1-a37c-fdfd9f109a32" />
-
 
 **Key Features:**  
 - **Text Extraction:** Extract text from PDF files and output them into TXT files.
