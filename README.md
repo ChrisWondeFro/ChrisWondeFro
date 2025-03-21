@@ -172,9 +172,9 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 
 ### 🌟 Fun Facts
 
-I stayed up two full days once not too long ago coding and composing code all night, all day then all night again!
-I broke my left hand in 7th grade while swinging from a roof
-I have had two official names so far in my life and three more unofficial names family members call me by
+- **I stayed up two full days once not too long ago coding and composing code all night, all day then all night again!**
+- **I broke my left hand in 7th grade while swinging from a roof**
+- **I have had two official names so far in my life and three more unofficial names family members call me by!**
 
 ---
 
