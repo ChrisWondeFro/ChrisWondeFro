@@ -44,7 +44,7 @@ Since picking up web development in 2023 to try and create the MVP of an idea fo
 - **Advanced Graph Controls:** Users can toggle night mode, enable or disable AWS service nodes or glossary terms, and adjust zoom levels.  
 - **Service Category Filter:** Select an AWS service category (e.g., Management & Governance) to display only relevant nodes and linkages.  
 - **Hover and Search Enhancements:** Hovering over nodes displays AWS service or term definitions. The advanced search feature dynamically moves the viewpoint to match queries, centering on the matched node, highlighting linked nodes, and greying out unrelated ones. Definitions appear in an expandable section within the graph controls panel.
-- 
+ 
 **Technology Stack:**  
 - **Backend:** FastAPI, a high-performance Python web framework, handles API endpoints.  
 - **Frontend Visualization:** D3.js, a powerful JavaScript library, creates dynamic and interactive data visualizations.  
