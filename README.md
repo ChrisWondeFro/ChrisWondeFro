@@ -108,19 +108,19 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 **Project Overview:** Chatflight is a prototype application that provides users with detailed flight information through natural language queries. Utilizing advanced AI and natural language processing techniques, Chatflight aims to offer a superior user experience by making flight information easily accessible and understandable.
 
 **Key Features:** 
-**Natural Language Queries:** Users can ask questions about flights in plain language and receive detailed responses.
-**Flight Information:** Access information about flight schedules, availability, and more.
-**Schema Modeling and Prompt Engineering:** Clean and effective usage of Pydantic and advanced prompt engineering techniques to ensure proper usage of tools and relevant responses.
+- **Natural Language Queries:** Users can ask questions about flights in plain language and receive detailed responses.
+- **Flight Information:** Access information about flight schedules, availability, and more.
+- **Schema Modeling and Prompt Engineering:** Clean and effective usage of Pydantic and advanced prompt engineering techniques to ensure proper usage of tools and relevant responses.
 
 **Technology Stack:** 
-**Backend:** FastAPI for handling API requests.
-**AI and NLP:** Langchain and OpenAI for natural language understanding and response generation.
-**Frontend:** Custom-built UI with Tailwind CSS and Flowbite components for a smooth and seamless interaction with users.
+- **Backend:** FastAPI for handling API requests.
+- **AI and NLP:** Langchain and OpenAI for natural language understanding and response generation.
+- **Frontend:** Custom-built UI with Tailwind CSS and Flowbite components for a smooth and seamless interaction with users.
 
 **Future Plans:** 
-**Booking Capabilities:** Integrate with flight booking systems to allow users to book flights directly through the app.
-**Enhanced Personalization:** Use machine learning to provide even more personalized responses and suggestions.
-**Expanded Data Sources:** Incorporate additional data sources for more comprehensive flight information.
+- **Booking Capabilities:** Integrate with flight booking systems to allow users to book flights directly through the app.
+- **Enhanced Personalization:** Use machine learning to provide even more personalized responses and suggestions.
+- **Expanded Data Sources:** Incorporate additional data sources for more comprehensive flight information.
 
 ---
 
