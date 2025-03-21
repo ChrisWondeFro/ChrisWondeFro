@@ -36,10 +36,14 @@ Since picking up web development in 2023 to create the MVP of an idea for an app
 
 **Key Features:**  
 - **Interactive Graph Visualization:** Utilizes a force-directed graph to display interconnected AWS services and glossary terms, enabling users to visually explore relationships, easily observe clustering behaviour and which services and terms are the most connected to by how big they are.
-- **Category-Based Filtering and Search:** Users can filter services by category, search for specific terms, and see only relevant linkages for quick and targeted information retrieval.  
+- **Category-Based Filtering and Search:** Users can filter services by category, search for specific terms, and see only relevant linkages for quick and targeted information retrieval. 
 - **Advanced Graph Controls:** Users can toggle night mode, enable or disable AWS service nodes or glossary terms, and adjust zoom levels.  
 - **Service Category Filter:** Select an AWS service category (e.g., Management & Governance) to display only relevant nodes and linkages.  
-- **Hover and Search Enhancements:** Hovering over nodes displays AWS service or term definitions. The advanced search feature dynamically moves the viewpoint to match queries, centering on the matched node, highlighting linked nodes, and greying out unrelated ones. Definitions appear in an expandable section within the graph controls panel.  
+- **Hover and Search Enhancements:** Hovering over nodes displays AWS service or term definitions. The advanced search feature dynamically moves the viewpoint to match queries, centering on the matched node, highlighting linked nodes, and greying out unrelated ones. Definitions appear in an expandable section within the graph controls panel.
+- 
+<img width="1438" alt="Screenshot 2025-03-21 at 3 30 12 AM" src="https://github.com/user-attachments/assets/15a41284-f3f1-4687-9e79-004c265d21c8" />
+<img width="1410" alt="Screenshot 2025-03-21 at 3 31 28 AM" src="https://github.com/user-attachments/assets/bb9d7ba8-d626-488e-bf8c-70c1431d7285" />
+<img width="1402" alt="Screenshot 2025-03-21 at 3 29 34 AM" src="https://github.com/user-attachments/assets/636284f5-b694-4470-a075-5cf1453bd7c1" />
 
 **Technology Stack:**  
 - **Backend:** FastAPI, a high-performance Python web framework, handles API endpoints.  
@@ -61,6 +65,8 @@ Since picking up web development in 2023 to create the MVP of an idea for an app
 **Project Overview:** BellyBioMe is a comprehensive nutrition and wellness tracking application designed to empower users to monitor and improve their health. Utilizing branded food data from a DynamoDB table and SR Legacy food nutrition data stored in a vector database, BellyBioMe enables barcode image uploading, scanning and similarity-based food item searches for accurate meal tracking. It also has goal tracking features and a dashboard for personalized insights.  
 
 As the software engineer of a five-member team in the Per Scholas AWS re/Start program, I helped develop and deploy this application to AWS ElasticBeanStalk and on the web securely for our capstone project. Our team, later reduced to four members, presented last in front of additional important guests, raising the stakes. Despite this, we received top marks and were recognized as the best project in our cohort by far.
+
+<img width="1490" alt="Screenshot 2025-03-21 at 3 37 49 AM" src="https://github.com/user-attachments/assets/b879d88e-eb33-4096-bf95-82d402e8e18c" />
 
 **Key Features:**  
 - **Barcode Scanning and/pr Uploading:** Quickly scan food items or upload an image of a food items barcode to log meals and track nutritional intake 
@@ -84,12 +90,18 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 **Jul 2023 - Present**  
 **Project Overview:** myDNA is a web application that enables users to upload and analyze raw DNA data from AncestryDNA files, providing genetic insights, disease risk assessments, and interactive visualizations.  
 
+<img width="1491" alt="Screenshot 2025-03-21 at 3 40 28 AM" src="https://github.com/user-attachments/assets/b7fb5e54-998f-403b-ad3b-c08295d19c3e" />
+<img width="1449" alt="Screenshot 2025-03-21 at 3 16 48 AM" src="https://github.com/user-attachments/assets/a2bf2248-9ed3-4901-b706-15141369ee79" />
+<img width="1404" alt="Screenshot 2025-03-21 at 4 33 10 AM" src="https://github.com/user-attachments/assets/2fb8321d-dd74-43ca-81b9-c7e2e1830474" />
+
+
 **Key Features:**  
 - **DNA Upload and Analysis:** Process raw DNA data for genetic variant insights.
 - **Disease Risk Assessment:** Utilize comprehensive datasets for risk classification and personalized health insights.
 - **Interactive Visualizations:** D3.js-powered force-directed graphs to explore variant and disease relationships dynamically. 
 - **Generative AI Integration:** AI-driven assistant leveraging vector embeddings, RAG (Retrieval-Augmented Generation), and prompt engineering for personalized insights.
 - **Drag & Drop Learning:** Users can drag specific terms or full sections into the chatbot to trigger explanations.
+
 
 **Technology Stack:**  
 - **Backend:** Django for application logic, PostgreSQL for data storage.  
@@ -106,6 +118,9 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 #### [Chatflight](https://chatflight.devlookforward.com)
 **Aug 2023 - Aug 2023**
 **Project Overview:** Chatflight is a prototype application that provides users with detailed flight information through natural language queries. Utilizing advanced AI and natural language processing techniques, Chatflight aims to offer a superior user experience by making flight information easily accessible and understandable.
+
+<img width="1477" alt="Screenshot 2025-03-21 at 4 24 33 AM" src="https://github.com/user-attachments/assets/9de10a63-9d60-4c7d-8ef6-ac5a327852ce" />
+
 
 **Key Features:** 
 - **Natural Language Queries:** Users can ask questions about flights in plain language and receive detailed responses.
@@ -127,6 +142,10 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 #### [BustPDF](https://github.com/ChrisWondeFro/BustPDF)
 **Oct 2023 - Oct 2023**  
 **Project Overview:** BustPDF is a simple, user-friendly PDF processing tool for handling PDF documents. The application enables users to perform OCR on images from PDF files and output text files, extract text from PDF's into text files and tables into CSV files, automating research document processing.
+
+<img width="1463" alt="Screenshot 2025-03-21 at 4 27 07 AM" src="https://github.com/user-attachments/assets/118cb31f-3b0f-474c-9bd5-f8091c84d00d" />
+<img width="1431" alt="Screenshot 2025-03-21 at 4 27 13 AM" src="https://github.com/user-attachments/assets/93cf734b-a36e-49c1-a37c-fdfd9f109a32" />
+
 
 **Key Features:**  
 - **Text Extraction:** Extract text from PDF files and output them into TXT files.
