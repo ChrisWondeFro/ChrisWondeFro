@@ -9,11 +9,11 @@
 ### 👨‍💻 About Me
 
 I lived in Ethiopia for the first 19 years of my life and had just finished my first year of law school before moving to the US in 2017 and starting all over!
-I grew up a voracious reader, playing soccer, basketball and ping pong with friends, surrounded by family and living a very social life overall. I have also always been deeply interested in nature and animals, consider myself a creative with a rich inner world as well as musically inclined being able to sing and play the guitar.
+I grew up a voracious reader, playing soccer, basketball and ping pong with friends, surrounded by family and living an overall social and active life. I have also always been deeply interested in nature, animals, science and art. I consider myself a creative with a rich inner world as well as musically inclined being able to sing and play the guitar.
 
-Since picking up web development in 2023 to create the MVP of an idea for an app my mother had, I have gained valuable lessons in harnessing my creativity and passion for innovative and impactful solutions and expanded my horizon to be an enthusiastic and innovative Full Stack Developer with over two years of intensive experience in web and software development. I specialize in Django, FastAPI, Next.js and integrating AI and Cloud solutions into web applications. My passion lies in building user-centric applications and leveraging emerging technologies to solve complex problems.
+Since picking up web development in 2023 to try and create the MVP of an idea for an app my mother had, I have gained countless valuable lessons in harnessing my creativity and passion for innovative and impactful solutions and expanded my horizon to be an enthusiastic and innovative Full Stack Developer with over two years of intensive experience in web and software development. I specialize in Django, FastAPI, Next.js and integrating AI and Cloud solutions into web applications. My passion lies in building user-centric applications and leveraging emerging technologies to solve complex problems.
 
-- 🔭 I'm currently working on AWS services visualizations, innovative health tracking solutions and DNA analysis web applications
+- 🔭 I'm currently working on innovative health tracking solutions, DNA analysis web applications and developing a few other business to consumer SAAS ideas I believe hold potential.
 - 🌱 I'm continuously learning about AI, cloud technologies, and advanced web development techniques
 - 👯 I'm looking to collaborate on open-source projects and innovative web applications
 - 💬 Ask me about full-stack development, AI integration, or prompt engineering
@@ -21,7 +21,7 @@ Since picking up web development in 2023 to create the MVP of an idea for an app
 ### 🛠 Skills & Technologies
 
 - Languages: Python, JavaScript, HTML, CSS
-- Frameworks: Django, Flask, FastAPI, Next.js
+- Frameworks: Django, Flask, FastAPI, Next.js, TailwindCSS
 - Databases: PostgreSQL, DynamoDB
 - Cloud: Google Cloud Platform, AWS
 - AI & ML: Langchain, OpenAI, Prompt Engineering, Vector Databases
