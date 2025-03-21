@@ -2,7 +2,8 @@
 
 ## Full Stack Developer | AI Enthusiast | Creative Problem Solver
 
-![1D121BFE-E55A-424D-82D4-07BD48E82508](https://github.com/user-attachments/assets/fc215052-0031-4f1a-a1a0-4c611f056897)
+![DLF](https://github.com/user-attachments/assets/8114ec01-90ed-44c2-abc6-31c7e4fc72d6)
+
 
 
 ### 👨‍💻 About Me
