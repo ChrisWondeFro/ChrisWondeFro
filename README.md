@@ -44,7 +44,7 @@ Since picking up web development in 2023 to create the MVP of an idea for an app
 **Technology Stack:**  
 - **Backend:** FastAPI, a high-performance Python web framework, handles API endpoints.  
 - **Frontend Visualization:** D3.js, a powerful JavaScript library, creates dynamic and interactive data visualizations.  
-- **Styling:** Tailwind CSS and Flowbite are used for rapid UI development and consistent, modern design.
+- **Styling:** Tailwind, Custom CSS and Flowbite are used for rapid UI development and consistent, modern design.
 - **Platform Services:** GoogleCloudRun.  
 
 **Future Enhancements:**  
@@ -95,7 +95,8 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 - **Backend:** Django for application logic, PostgreSQL for data storage.  
 - **Visualization:** D3.js for interactive knowledge graph representation.
 - **AI & ML:** OpenAI LLMs with LangChain for chatbot functionalities, embeddings stored in Pinecone for user-specific data retrieval. 
-
+- **Frontend:** Bootstrap5
+- 
 **Future Plans:**  
 - **Machine Learning Roadmap:** Implement machine learning for predictive analysis and personalized health insights.  
 - **Integration with BellyBioMe:** Integration with BellyBioMe: Merge genetic and dietary data for personalized wellness recommendations.
