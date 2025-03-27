@@ -78,7 +78,7 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 
 **Technology Stack:**  
 - **Backend:** Django for the backend integrating Postgres for user data, DynamoDB for branded foods data and Pinecone vector database for SR Legacy food nutrition data. Also uses S3 for user uploaded barcode images, a Lambda Function and an API Gateway service using the function to handle cleaning images from s3 manually by the user for their profile picture and automatically when user uploaded barcode images are being processed and are stored in s3 for a short time. Boto3 for AWS services interactions.
-- **Frontend:** Custom UI with user-friendly dashboards for health monitoring.
+- **Frontend:** Custom Bootstrap5 UI with user-friendly dashboards for health monitoring.
 - **Platform Services:** AWS ElasticBeanStalk, CloudFlare Domains.
 
 **Future Plans:**  
@@ -110,7 +110,7 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 - **Backend:** Django for application logic, PostgreSQL for data storage.  
 - **Visualization:** D3.js for interactive knowledge graph representation.
 - **AI & ML:** OpenAI LLMs with LangChain for chatbot functionalities, embeddings stored in Pinecone for user-specific data retrieval. 
-- **Frontend:** Bootstrap5
+- **Frontend:** Custom Bootstrap5 with clean, simple and user-friendly design.
 - 
 **Future Plans:**  
 - **Machine Learning Roadmap:** Implement machine learning for predictive analysis and personalized health insights.  
