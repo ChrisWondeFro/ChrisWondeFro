@@ -5,7 +5,6 @@
 ![DLF](https://github.com/user-attachments/assets/8114ec01-90ed-44c2-abc6-31c7e4fc72d6)
 
 
-
 ### 👨‍💻 About Me
 
 I lived in Ethiopia for the first 19 years of my life and had just finished my first year of law school before moving to the US in 2017 and starting all over!
@@ -34,9 +33,10 @@ Since picking up web development in 2023 to try and create the MVP of an idea fo
 
 **Project Overview:** The AWS Glossary Force Directed Graph is an innovative web application designed to simplify the understanding of Amazon Web Services (AWS) and its associated terminology. This interactive visualization tool allows users to explore the complex relationships between AWS services and glossary terms, making it easier for both beginners and experienced professionals to navigate the AWS ecosystem. This side project was built during my time taking on the AWS re/Start program with PerScholas, where I earned my AWS Certified Cloud Practitioner Certification, and my AWS Certified AI Practitioner Certification on my own initiative just before graduating the program. 
 
-<img width="1438" alt="Screenshot 2025-03-21 at 3 30 12 AM" src="https://github.com/user-attachments/assets/15a41284-f3f1-4687-9e79-004c265d21c8" />
-<img width="1410" alt="Screenshot 2025-03-21 at 3 31 28 AM" src="https://github.com/user-attachments/assets/bb9d7ba8-d626-488e-bf8c-70c1431d7285" />
-<img width="1402" alt="Screenshot 2025-03-21 at 3 29 34 AM" src="https://github.com/user-attachments/assets/636284f5-b694-4470-a075-5cf1453bd7c1" />
+<img width="1419" alt="aws-glossary-1" src="https://github.com/user-attachments/assets/9a630bac-96e6-44e7-b5dd-ffcc21fe5d26" />
+<img width="1400" alt="aws-glossary-2" src="https://github.com/user-attachments/assets/536cdabf-377f-4c24-8303-45b23018aa0b" />
+<img width="1410" alt="aws-glossary-3" src="https://github.com/user-attachments/assets/cae17a50-5653-4caf-b410-0e9d68828bfc" />
+<img width="1509" alt="aws-glossary-4" src="https://github.com/user-attachments/assets/c94554d2-135c-4ec6-bc69-1b9cec2f0acb" />
 
 **Key Features:**  
 - **Interactive Graph Visualization:** Utilizes a force-directed graph to display interconnected AWS services and glossary terms, enabling users to visually explore relationships, easily observe clustering behaviour and which services and terms are the most connected to by how big they are.
@@ -96,7 +96,6 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 <img width="1491" alt="Screenshot 2025-03-21 at 3 40 28 AM" src="https://github.com/user-attachments/assets/b7fb5e54-998f-403b-ad3b-c08295d19c3e" />
 <img width="1449" alt="Screenshot 2025-03-21 at 3 16 48 AM" src="https://github.com/user-attachments/assets/a2bf2248-9ed3-4901-b706-15141369ee79" />
 <img width="1404" alt="Screenshot 2025-03-21 at 4 33 10 AM" src="https://github.com/user-attachments/assets/2fb8321d-dd74-43ca-81b9-c7e2e1830474" />
-
 
 **Key Features:**  
 - **DNA Upload and Analysis:** Process raw DNA data for genetic variant insights.
