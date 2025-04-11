@@ -62,7 +62,7 @@ Since picking up web development in 2023 to try and create the MVP of an idea fo
 
 #### [BellyBioMe](https://belly-biome.com)
 **Jul 2024 - Present**  
-**Project Overview:** BellyBioMe is a comprehensive nutrition and wellness tracking application designed to empower users to monitor and improve their health. Utilizing branded food data from a DynamoDB table and SR Legacy food nutrition data stored in a vector database, BellyBioMe enables barcode image uploading, scanning and similarity-based food item searches for accurate meal tracking. It also has goal tracking features and a dashboard for personalized insights.  
+**Project Overview:** BellyBioMe is a nutrition and wellness tracking platform designed to empower users to monitor and improve their health. Utilizing branded food data from a DynamoDB table and SR Legacy food nutrition data stored in a vector database, BellyBioMe enables barcode image uploading, scanning and similarity-based food item searches for accurate meal tracking. It also has goal tracking features and a dashboard for personalized insights.  
 
 As the software engineer of a five-member team in the Per Scholas AWS re/Start program, I helped develop and deploy this application to AWS ElasticBeanStalk and on the web securely for our capstone project. Our team, later reduced to four members, presented last in front of additional important guests, raising the stakes. Despite this, we received top marks and were recognized as the best project in our cohort by far.
 
@@ -89,9 +89,9 @@ As the software engineer of a five-member team in the Per Scholas AWS re/Start p
 
 ---
 
-#### [myDNA](private)
+#### [myDNAHealth](private)
 **Jul 2023 - Present**  
-**Project Overview:** myDNA is a web application that enables users to upload and analyze raw DNA data from AncestryDNA files, providing genetic insights, disease risk assessments, and interactive visualizations. Utilizes data engineering, generative AI and interactive visualizations to deliver personalized health risk assessments and transform complex genetic information into accessible and actionable insights. 
+**Project Overview:** myDNAHealth is a health and wellness platform that enables users to upload and analyze raw DNA data from AncestryDNA files, providing genetic insights, disease risk assessments, and interactive visualizations. Utilizes data engineering, generative AI and interactive visualizations to deliver personalized health risk assessments and transform complex genetic information into accessible and actionable insights. 
 
 <img width="1491" alt="Screenshot 2025-03-21 at 3 40 28 AM" src="https://github.com/user-attachments/assets/b7fb5e54-998f-403b-ad3b-c08295d19c3e" />
 <img width="1449" alt="Screenshot 2025-03-21 at 3 16 48 AM" src="https://github.com/user-attachments/assets/a2bf2248-9ed3-4901-b706-15141369ee79" />
