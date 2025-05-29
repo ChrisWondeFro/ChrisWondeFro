@@ -2,7 +2,10 @@
 
 ## Full Stack Developer | AI Enthusiast | Creative Problem Solver
 
-https://github.com/user-attachments/assets/f5226edc-f060-47a1-ba1e-45f04a8afa7a
+
+
+https://github.com/user-attachments/assets/6dafaa50-1148-4460-b28e-6e111f973436
+
 
 
 ### 👨‍💻 About Me
