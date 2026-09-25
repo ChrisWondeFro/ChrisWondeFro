@@ -14,13 +14,13 @@ Most of this work is private. Each link opens a project note that says what exis
 
 | Project | What it is | Where it stands |
 |---|---|---|
-| [Focalane](https://christianmandefro.devlookforward.com/work/focalane) | A private system for planning, recording, and reviewing takes on Mac and iPhone. | Operational. The Mac side runs today; publishing has not shipped. |
-| [OBD2Tech Capture + Journal](https://christianmandefro.devlookforward.com/work/obd2tech) | Software that carries vehicle data from capture hardware into a reviewable journal without losing where a reading came from. | Field-validated on real hardware. Vehicle identity and history stay private. |
+| [Focalane](https://christianmandefro.devlookforward.com/work/focalane) | The central command of a creator-tools family. It plans content and reviews takes from FocalaneRecorder (Mac) and FocalaneCapture (iPhone), which are separate products. | Operational. FocalaneRecorder is notarized and FocalaneCapture is my production iPhone app; neither is publicly released, and publishing has not shipped. |
+| [OBD2Tech Capture + Journal](https://christianmandefro.devlookforward.com/work/obd2tech) | An iPhone recorder and a local journal that turn read-only signals from my Jeep into traceable findings without losing where a reading came from. | Field-validated on my own vehicle. The iPhone recorder becomes primary after one more acceptance drive. The VIN stays private. |
 | [CertGraph](https://christianmandefro.devlookforward.com/work/certgraph) | A browser-only SAA-C03 learning prototype that turns scenario evidence into constraints, tradeoffs, and architecture graphs. | Accepted prototype. Practice content is synthetic, and independent AWS review and learner validation are still open. |
 | [Spine](https://christianmandefro.devlookforward.com/work/spine) | A private tool for recording a decision, the evidence behind it, and what is still uncertain. | Working prototype, not a finished system. |
-| [VoiceOfTheTexts + Capture](https://christianmandefro.devlookforward.com/work/voice-of-the-texts) | Mac and iPhone tools for capturing, restoring, organizing, and reading text. | Private production candidate. |
-| [LocalVault](https://christianmandefro.devlookforward.com/work/localvault) | A signed native app, SwiftUI with a Rust core, for keeping secrets on the local machine. | The vault exists. Agent access is an idea for later, not a feature. |
-| [Production Studio](https://christianmandefro.devlookforward.com/work/production-studio) | A generic Apple Silicon video workflow built to test controlled automation and human review. | Validated with synthetic material; not adopted for my own production work. |
+| [VoiceOfTheTexts](https://christianmandefro.devlookforward.com/work/voice-of-the-texts) | Writing provenance and copy review, linked with Focalane through FocalaneCapture. | Private. Relay delivery is not cloud sync. |
+| [LocalVault](https://christianmandefro.devlookforward.com/work/localvault) | A notarized native Mac app, SwiftUI with a Rust core, for passwords and developer secrets. | Installed and owner-accepted. Agent access is tested only in a separate pilot with synthetic data. |
+| [Production Studio](https://christianmandefro.devlookforward.com/work/production-studio) | An Apple Silicon app for short illustrated explainer videos, with a separate human approval at each stage. | Release candidate in engineering; not yet adopted for my own production work. |
 | [Agent Docs Template](https://christianmandefro.devlookforward.com/work/agent-docs-template) | A reusable documentation template for ownership, handoffs, current state, and checks in agent-assisted projects. | Prepared for an open-source release; not public yet. |
 | [MasterMyAccent](https://christianmandefro.devlookforward.com/work/mastermyaccent) | An unfinished pronunciation-practice tool built around live feedback and human review. | Partial prototype; no scoring or improvement claim. |
 
@@ -30,11 +30,14 @@ Most of this work is private. Each link opens a project note that says what exis
 
 A finished educational app for exploring compound growth, delay, inflation, and uncertainty. It runs entirely in the browser with no accounts, analytics, or live market data. Educational use only, not financial advice.
 
+**[AWS Glossary Graph](https://aws-glossary-graph.devlookforward.com)** · [project note](https://christianmandefro.devlookforward.com/work/aws-graph)
+
+A live, interactive map of 171 AWS services and 676 terms from the official AWS Glossary, built with FastAPI and D3.js during the AWS re/Start program and refreshed in September 2026. It is the early ancestor of CertGraph.
+
 ## Earlier work
 
 Projects from 2023 to 2025 that I learned from and keep for lineage. Most are offline or private now.
 
-- **[AWS Glossary Graph](https://christianmandefro.devlookforward.com/work/aws-graph)** (2024). An interactive force-directed graph of AWS services and glossary terms, built with FastAPI and D3.js during the AWS re/Start program. It is the early ancestor of CertGraph.
 - **BellyBioMe** (2024). The team capstone for the Per Scholas AWS re/Start program: nutrition tracking with barcode scanning, similarity search, and dashboards, built with Django and deployed on AWS Elastic Beanstalk. I helped develop and deploy it on a five-person team, and the project received top marks.
 - **[ChatFlight](https://christianmandefro.devlookforward.com/work/chatflight)** (2023, revisited 2025). A multi-agent chat experiment with streaming output, kept as a reference for realtime coordination. It is not a flight product.
 - **[BustPDF](https://christianmandefro.devlookforward.com/work/bustpdf)** (2023, revisited 2025). PDF text, table, and OCR extraction whose reusable parts are candidates for document infrastructure.
