@@ -26,7 +26,7 @@ Most of this work is private. Each link opens a project note that says what exis
 
 ## Released
 
-**[The Long View](https://the-long-view.vercel.app)** · [source](https://github.com/ChrisWondeFro/the-long-view)
+**[The Long View](https://the-long-view-sage.vercel.app)** · [source](https://github.com/ChrisWondeFro/the-long-view)
 
 A finished educational app for exploring compound growth, delay, inflation, and uncertainty. It runs entirely in the browser with no accounts, analytics, or live market data. Educational use only, not financial advice.
 
