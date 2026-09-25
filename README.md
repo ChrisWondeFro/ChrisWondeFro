@@ -40,7 +40,7 @@ A live, interactive map of 171 AWS services and 676 terms from the official AWS 
 
 Projects from 2023 to 2025 that I learned from and keep for lineage. Most are offline or private now.
 
-- **BellyBioMe** (2024). The team capstone for the Per Scholas AWS re/Start program: nutrition tracking with barcode scanning, similarity search, and dashboards, built with Django and deployed on AWS Elastic Beanstalk. I helped develop and deploy it on a five-person team, and the project received top marks.
+- **BellyBioMe** (2024). The team capstone for the Per Scholas AWS re/Start program: nutrition tracking with barcode scanning, similarity search, and dashboards, built with Django and deployed on AWS Elastic Beanstalk. The team started with five people; one left the cohort about a third of the way through, and the four of us who remained presented it. I helped develop and deploy it, and the project received top marks.
 - **[ChatFlight](https://christianmandefro.devlookforward.com/work/chatflight)** (2023, revisited 2025). A multi-agent chat experiment with streaming output, kept as a reference for realtime coordination. It is not a flight product.
 - **[BustPDF](https://christianmandefro.devlookforward.com/work/bustpdf)** (2023, revisited 2025). PDF text, table, and OCR extraction whose reusable parts are candidates for document infrastructure.
 - **GenAI chatbots for nonprofit websites** (2023). A retrieval-augmented chatbot demonstration built with FastAPI and LangChain.
