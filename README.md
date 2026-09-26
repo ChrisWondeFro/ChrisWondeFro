@@ -14,17 +14,17 @@ Most of this work is private. Each link opens a project note that says what exis
 
 | Project | What it is | Where it stands |
 |---|---|---|
-| [Focalane](https://christianmandefro.devlookforward.com/work/focalane) | The central command of a creator-tools family. It plans content and reviews takes from FocalaneRecorder (Mac) and FocalaneCapture (iPhone), which are separate products. | Operational. FocalaneRecorder is notarized and FocalaneCapture is my production iPhone app; neither is publicly released, and publishing has not shipped. |
-| [FocalaneRecorder](https://christianmandefro.devlookforward.com/work/focalanerecorder) | The Mac recorder in the Focalane family: screen, camera, and audio capture with durable local takes that reach Focalane only as candidates. | Notarized and installed; a private preview, not publicly distributed. |
-| [FocalaneCapture](https://christianmandefro.devlookforward.com/work/focalanecapture) | The iPhone app in the Focalane family: write a note, use it or an accepted script as the teleprompter prompt, and film takes on the phone. | My production iPhone app since 16 September 2026; not an App Store release. |
-| [OBD2Tech Capture + Journal](https://christianmandefro.devlookforward.com/work/obd2tech) | An iPhone recorder and a local journal that turn read-only signals from my Jeep into traceable findings without losing where a reading came from. | Field-validated on my own vehicle. The iPhone recorder becomes primary after one more acceptance drive. The VIN stays private. |
-| [CertGraph](https://christianmandefro.devlookforward.com/work/certgraph) | A browser-only SAA-C03 learning prototype that turns scenario evidence into constraints, tradeoffs, and architecture graphs. | Accepted prototype. Practice content is synthetic, and independent AWS review and learner validation are still open. |
-| [Spine](https://christianmandefro.devlookforward.com/work/spine) | A private tool for recording a decision, the evidence behind it, and what is still uncertain. | Working prototype, not a finished system. |
-| [VoiceOfTheTexts](https://christianmandefro.devlookforward.com/work/voice-of-the-texts) | Writing provenance and copy review, linked with Focalane through FocalaneCapture. | Private. Relay delivery is not cloud sync. |
-| [LocalVault](https://christianmandefro.devlookforward.com/work/localvault) | A notarized native Mac app, SwiftUI with a Rust core, for passwords and developer secrets. | Installed and owner-accepted. Agent access is tested only in a separate pilot with synthetic data. |
-| [Production Studio](https://christianmandefro.devlookforward.com/work/production-studio) | An Apple Silicon app for short illustrated explainer videos, with a separate human approval at each stage. | Release candidate in engineering; not yet adopted for my own production work. |
-| [Agent Docs Template](https://christianmandefro.devlookforward.com/work/agent-docs-template) | A reusable documentation template for ownership, handoffs, current state, and checks in agent-assisted projects. | Prepared for an open-source release; not public yet. |
-| [MasterMyAccent](https://christianmandefro.devlookforward.com/work/mastermyaccent) | An unfinished pronunciation-practice tool built around live feedback and human review. | Partial prototype; no scoring or improvement claim. |
+| [Focalane](https://christianmandefro.devlookforward.com/work/focalane) | My creator command center: one local place that carries each piece of content from script through filming, editing, and review, takes footage from my Mac and iPhone recorders as candidates, and never publishes without me. | Operational. An owner-only hosted relay went live on 24 September 2026, and FocalaneCapture paired with it the next day. Publishing has not shipped. |
+| [FocalaneRecorder](https://christianmandefro.devlookforward.com/work/focalanerecorder) | The Focalane family's Mac recorder. It keeps the original take untouched: screen, cursor path, camera, and audio are recorded separately, so cursor styles, zoom, and layouts stay adjustable. | Notarized and installed; a private preview, not publicly distributed. |
+| [FocalaneCapture](https://christianmandefro.devlookforward.com/work/focalanecapture) | A writing-first iPhone app: a note, or a script accepted in Focalane, becomes the teleprompter prompt on the phone that films the takes. | My production iPhone app since 16 September 2026; not an App Store release. |
+| [OBD2Tech Capture + Journal](https://christianmandefro.devlookforward.com/work/obd2tech) | A read-only diagnostic system for my own Jeep that compares the vehicle against its own history, traces every finding to its recording, and answers "Unknown" when the evidence cannot support a conclusion. | Field-validated on my own vehicle. The iPhone recorder handles current field work; a few real-vehicle checks remain before it replaces the Android backup. The VIN stays private. |
+| [CertGraph](https://christianmandefro.devlookforward.com/work/certgraph) | Built to teach cloud engineers to turn scenario constraints into architecture decisions, as an accepted browser-only SAA-C03 learning prototype. | Accepted prototype. Practice content is synthetic; independent AWS review and learner validation are still open. The broader reasoning-layer direction is a goal, not a current capability. |
+| [Spine](https://christianmandefro.devlookforward.com/work/spine) | A decision framework for where AI belongs in a small business, offered first to owner-led plumbing, HVAC, and electrical firms. | Public offer live since September 2026. No client engagement yet; the working console is private. |
+| [VoiceOfTheTexts](https://christianmandefro.devlookforward.com/work/voice-of-the-texts) | Began as layered author-voice research; now keeps writing provenance and turns the script rewrites I accept into editorial policy. | Private. Voice research is paused, and no voice model is claimed. |
+| [Arcclave](https://christianmandefro.devlookforward.com/work/arcclave) | A notarized native Mac vault, SwiftUI with a Rust core, built toward letting coding agents run approved actions without seeing credentials. | Installed and owner-accepted. Agent approval is tested only in a separate pilot with synthetic data. |
+| [Production Studio](https://christianmandefro.devlookforward.com/work/production-studio) | An Apple Silicon studio for short illustrated explainer videos, with a separate human approval at each stage. A rename to FocalaneProductions is planned. | Release candidate in engineering; not yet adopted for my own production work. |
+| [Agent Docs Template](https://christianmandefro.devlookforward.com/work/agent-docs-template) | A documentation protocol and offline checker that keeps agent handoffs current across sessions, models, and tools. | v3.0.0 tagged and MIT-licensed; private until release. |
+| [MasterMyAccent](https://christianmandefro.devlookforward.com/work/mastermyaccent) | Being rebuilt as an invite-only pronunciation course for Amharic speakers working in the US and Canada, with scoring bought from Azure and a teacher in the loop. | Engine check first: Azure is tested against a teacher's blind marking before any course is built. The live site runs the retired app, with sign-ups paused. |
 
 ## Released
 
@@ -34,17 +34,17 @@ A finished educational app for exploring compound growth, delay, inflation, and 
 
 **[AWS Glossary Graph](https://aws-glossary-graph.devlookforward.com)** · [project note](https://christianmandefro.devlookforward.com/work/aws-graph)
 
-A live, interactive map of 171 AWS services and 676 terms from the official AWS Glossary, built with FastAPI and D3.js during the AWS re/Start program and refreshed in September 2026. It is the early ancestor of CertGraph.
+A live, interactive map of 171 AWS services and 676 terms from the official AWS Glossary, built with FastAPI and D3.js during the AWS re/Start program and refreshed in September 2026. It carried a graph interaction from my earlier myDNAHealth work into public AWS vocabulary, an early step in the line that led to CertGraph.
 
 ## Earlier work
 
 Projects from 2023 to 2025 that I learned from and keep for lineage. Most are offline or private now.
 
 - **BellyBioMe** (2024). The team capstone for the Per Scholas AWS re/Start program: nutrition tracking with barcode scanning, similarity search, and dashboards, built with Django and deployed on AWS Elastic Beanstalk. The team started with five people; one left the cohort about a third of the way through, and the four of us who remained presented it. I helped develop and deploy it, and the project received top marks.
-- **[ChatFlight](https://christianmandefro.devlookforward.com/work/chatflight)** (2023, revisited 2025). A multi-agent chat experiment with streaming output, kept as a reference for realtime coordination. It is not a flight product.
-- **[BustPDF](https://christianmandefro.devlookforward.com/work/bustpdf)** (2023, revisited 2025). PDF text, table, and OCR extraction whose reusable parts are candidates for document infrastructure.
+- **[ChatFlight](https://christianmandefro.devlookforward.com/work/chatflight)** (2024, rebuilt 2025). A flight-search chat demo where a supervisor hands work to specialist agents and the interface shows each handoff and tool call as it streams. Offline now.
+- **[BustPDF](https://christianmandefro.devlookforward.com/work/bustpdf)** (2024, revisited 2025). PDF text, table, image, and OCR extraction, later with AI summaries and quizzes; its reusable extraction parts are candidates for document infrastructure. Offline now.
 - **GenAI chatbots for nonprofit websites** (2023). A retrieval-augmented chatbot demonstration built with FastAPI and LangChain.
-- **myDNAHealth** (2023 to 2024). An earlier Django application for exploring raw DNA data. It stays private, and any public material about it is synthetic only.
+- **myDNAHealth** (2023 to 2024). DNA-report experiments: a Flask lookup against NCBI ClinVar, then private Django versions that turned a person's matched results into an explorable graph with an AI explainer. That graph interaction carried into the AWS Glossary Graph. No real genetic data appears publicly.
 
 ## How I work
 
@@ -60,7 +60,7 @@ Outside the work I read a lot, play soccer, basketball, and ping pong, and sing 
 
 ## Stacks behind these projects
 
-- **Native Apple:** macOS and iOS apps, SwiftUI, and a Rust core in LocalVault
+- **Native Apple:** macOS and iOS apps, SwiftUI, and a Rust core in Arcclave
 - **Web:** TypeScript, React, Next.js
 - **Python:** FastAPI, Django, Flask
 - **Cloud:** AWS, Google Cloud, Vercel
